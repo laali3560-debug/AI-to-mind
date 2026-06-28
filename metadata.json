@@ -1,0 +1,6 @@
+{
+  "name": "Mind-to-AI Arena",
+  "description": "Safety Evaluation Framework for Intent-Driven Artificial Intelligence Systems. Evaluate intent accuracy, risk drift, mental privacy, adversarial signal robustness, and alignment under BCI-inferred intent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
